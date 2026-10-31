@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.chaskele.streetleague",
+      "sha256_cert_fingerprints": [
+        "3C:13:B7:58:A3:B5:D1:14:DB:C8:DD:F2:8B:43:2D:96:24:8A:AB:ED:B2:B7:F1:58:8B:98:C9:0D:60:69:1E:09"
+      ]
+    }
+  }
+]
